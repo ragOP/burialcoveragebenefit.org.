@@ -15,11 +15,7 @@
       Make A <b>Quick Call</b> To Claim Your $25,000 Life Insurance Benefit Now!  
     </div>
     <div class="spots-count">Spots remaining: 4</div>
-    <!-- <div class="call-btn" onclick="handleCall()">
-      <a href="tel:+13214858035">
-        <div class="call-btn">CALL (321) 485-8035</div>
-      </a>
-    </div> -->
+   
 
     <div class="call-btn" onclick="handleCall()">
   <a href="tel:+13214858035">CALL (321) 485-8035</a>
